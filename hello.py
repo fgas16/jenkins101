@@ -1,1 +1,1 @@
-print("Hello World and trigger pipe!")
+print("Hello World and trigger pipe every minute!")
