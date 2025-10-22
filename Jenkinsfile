@@ -22,7 +22,7 @@ pipeline {
                 echo "Testing.."
                 sh '''
                 cd app
-                pytest unit/
+                python3 -m pytest unit/
                 '''
             }
         }
